@@ -1,1 +1,2 @@
 # COVID19-ANALYSIS
+Based on the official data modeling, this paper studies the transmission process of the Corona Virus Disease 2019 (COVID-19). The error between the model and the official data curve is quite small. At the same time, it realized forward prediction and backward inference of the epidemic situation, and the relevant analysis help relevant countries to make decisions.
